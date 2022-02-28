@@ -13,7 +13,8 @@ object CarsData {
                     "It enjoyed a particularly strong season in 2001 with Raikkonen and Nick Heidfeld taking the team to fourth in the constructors’ championship.\n" +
                     "Team owner Peter Sauber sold his team to BMW at the end of 2005 but five years later he was back in charge of the team once more after the car manufacturer withdrew from the sport. He later handed team principal duties to Monisha Kaltenborn.\n" +
                     "Following BMW’s departure the team return to using customer Ferrari engines. The team officially took over the Sauber name once again at the beginning of 2011.\n" +
-                    "Sergio Perez scored the team’s best result as an independent constructor when he finished second in the 2012 Malaysian Grand Prix."
+                    "Sergio Perez scored the team’s best result as an independent constructor when he finished second in the 2012 Malaysian Grand Prix.",
+            R.drawable.alfa_romero_car,
             ),
         arrayOf(
             "Scuderia AlphaTauri",
@@ -22,7 +23,8 @@ object CarsData {
             R.drawable.alpha_tauri,
             "Scuderia AlphaTauri, or simply AlphaTauri, is an Italian Formula One racing team and constructor. It is one of two Formula One constructors owned by Austrian beverage company Red Bull, the other being Red Bull Racing. " +
                     "The constructor was rebranded for the 2020 Formula One World Championship from \"Toro Rosso\" to \"AlphaTauri\" in order to promote the AlphaTauri fashion brand." +
-                    "According to Franz Tost and Helmut Marko, Scuderia AlphaTauri is no longer the junior team but the sister team to Red Bull Racing."
+                    "According to Franz Tost and Helmut Marko, Scuderia AlphaTauri is no longer the junior team but the sister team to Red Bull Racing.",
+            R.drawable.alpha_tauri_car,
             ),
         arrayOf(
             "BWT Alpine F1 Team",
@@ -31,7 +33,8 @@ object CarsData {
             R.drawable.alpine,
             "Alpine F1 Team, competing as BWT Alpine F1 Team,[5] is a Formula One constructor which made its debut at the start of the 2021 Formula One World Championship. \n" +
                     "Formerly named Renault F1 Team and owned by the French automotive company Groupe Renault, the team was rebranded for 2021 to promote Renault's sports car brand, Alpine, and continues to serve as Renault's works team.\n" +
-                    " The chassis and managerial side of the team is based in Enstone, Oxfordshire, England, and the engine side of the team is based in Viry-Châtillon, a suburb of Paris, France."
+                    " The chassis and managerial side of the team is based in Enstone, Oxfordshire, England, and the engine side of the team is based in Viry-Châtillon, a suburb of Paris, France.",
+            R.drawable.alpine_car,
             ),
         arrayOf(
             "Aston Martin Aramco Cognizant F1 Team",
@@ -41,7 +44,8 @@ object CarsData {
             "Indian billionaire Vijay Mallya took over from the former Spyker team in 2008 and rebranded it Force India.\n" +
                     "The team remains at the same base outside the Silverstone Circuit in Northamptonshire which it occupied when it originally entered Formula One as Jordan in 1991.\n" +
                     "Having used Ferrari engines in its first season, it switched to Mercedes power in 2009. Giancarlo Fisichella nearly gave the team a breakthrough victory at Spa-Francorchamps that year, and sense then Force India has gradually strengthened its position in the midfield. So much so that in 2016 and 2017 the team finished fourth in the championship, only beaten by three teams with significantly greater resources.\n" +
-                    "However in 2018, with Mallya’s business empire facing a series of legal challenges, the team fell into administration ahead of the summer break. It was purchase by a consortium led by Lawrence Stroll, father of F1 driver Lance Stroll, and renamed as Racing Point.\n"
+                    "However in 2018, with Mallya’s business empire facing a series of legal challenges, the team fell into administration ahead of the summer break. It was purchase by a consortium led by Lawrence Stroll, father of F1 driver Lance Stroll, and renamed as Racing Point.",
+            R.drawable.aston_martin_car,
             ),
         arrayOf(
             "Scuderia Ferrari",
@@ -57,7 +61,8 @@ object CarsData {
                     "After four years of partnership between Alonso and Felipe Massa, without taking either driver or constructors’ title, Massa left and was replaced himself by a returning Raikkonen, the Scuderia’s last champion. Alonso himself lasted a further season before being replaced by the man who had beaten him for many of his years at Ferrari, Sebastian Vettel.\n" +
                     "Vettel and Raikkonen’s partnership at the team was without apparent disagreements, Raikkonen taking a second driver role without friction. Although on several occasions it seemed Ferrari had a faster car than the dominant Mercedes team, they were unable to take either title and Raikkonen was replaced for the 2019 season by former Ferrari Driver Academy member Charles Leclerc, the first from the programme to make it to their top team.\n" +
                     "Leclerc’s star rose as Vettel’s seemed to fade and the latter was told his contract would not be renewed for 2021, ahead of the 2020 season. A controversy over their power units in 2019 appeared to badly affect Ferrari, suffering their worst finish in the constructors for forty years and taking no wins at all in 2020.\n" +
-                    "Vettel was replaced for 2021 by Carlos Sainz Jnr. Despite not taking a title since 2008, today they have a record 16 constructors’ championships to their name, and might have won more had the title been awarded before 1958."
+                    "Vettel was replaced for 2021 by Carlos Sainz Jnr. Despite not taking a title since 2008, today they have a record 16 constructors’ championships to their name, and might have won more had the title been awarded before 1958.",
+            R.drawable.ferrari_car,
             ),
         arrayOf(
             "Haas F1 Team",
@@ -70,7 +75,8 @@ object CarsData {
                     "For the 2016 season Haas signed Esteban Gutierrez and Romain Grosjean, with Grosjean scoring all of the teams five points finishes. Gutierrez was replaced for 2016 by Kevin Magnussen, who would remain partnered with Grosjean there until the end of the 2020 season.\n" +
                     "Haas’ best result in the constructors’ championship so far has been fifth in 2018, however a reversal of fortunes saw them plummet to second-last for both 2019 and an almost-points-barren 2020 season, struggling with an uncompetitive Ferrari power unit that year.\n" +
                     "Grosjean and Magnussen were told they would be let at the end of 2020 partway through the season, which a dramatic, fireball accident in Bahrain meant Grosjean did not quite finish. Reserve driver Pietro Fittipaldi stepped in for two races, due to injuries to Grosjean’s hands.\n" +
-                    "Ferrari Driver Academy member and 2020 Formula 2 champion Mick Schumacher was signed for 2021. As was fifth-place Formula 2 driver Nikita Mazepin, whose billionaire father’s investment in the team saw it branded as Uralkali Haas."
+                    "Ferrari Driver Academy member and 2020 Formula 2 champion Mick Schumacher was signed for 2021. As was fifth-place Formula 2 driver Nikita Mazepin, whose billionaire father’s investment in the team saw it branded as Uralkali Haas.",
+            R.drawable.haas_car,
             ),
         arrayOf(
             "McLaren F1 Team",
@@ -85,7 +91,8 @@ object CarsData {
                     "McLaren’s association with Mercedes came to an end in 2014. The following year it reunited with Honda for the first time since 1992 but sadly not to reclaim former glory. A disastrous start to the 2015 season continued into frustrating 2016 where far from a brilliant re-partnership, the team saw its two former-world-champion drivers frequently struggling to escape Q1.\n" +
                     "At the end of 2016, the previously unthinkable happened and Ron Dennis was forced out of the team. However, regime change in 2017 didn’t alter the results and neither did Button’s retirement and replacement with Stoffel Vandoorne. A messy divorce from Honda and switch to Renault power in 2018 didn’t entirely right things and both Alonso and Vandoorne departed the team, leaving F1.\n" +
                     "Former Red Bull junior Carlos Sainz Jnr and 2018 Formula 2 runner-up Lando Norris replaced them and the team, with the addition of former Porsche endurance boss Andreas Seidl, seemed to enter a period of steady recovery. Results improved to see the cars consistently in points-paying positions and Sainz took a third place for the team in Brazil 2019, their first podium since Button had won the same race in 2012.\n" +
-                    "2020 saw the team further improve, with Norris and Sainz taking another podium apiece and McLaren finishing third in the world constructors’ championship. Sainz left the team in 2021, replaced by Daniel Ricciardo."
+                    "2020 saw the team further improve, with Norris and Sainz taking another podium apiece and McLaren finishing third in the world constructors’ championship. Sainz left the team in 2021, replaced by Daniel Ricciardo.",
+            R.drawable.mc_laren_car,
             ),
         arrayOf(
             "Mercedes-AMG Petronas F1 Team",
@@ -101,7 +108,8 @@ object CarsData {
                     "Lewis Hamilton replaced Schumacher for the 2013 season, and the following year the wisdom of that move became clear. Mercedes prepared perfectly for F1’s new era of V6 hybrid turbo engines. In a 19-race campaign the team dominated the championship, taking 18 pole positions and 16 wins. Of those, 11 were scored by Hamilton, who also won his second drivers’ title.\n" +
                     "Mercedes’ dominance continued through the hybrid era, with the team winning every constructors’ championship from that 2014 season onwards. Hamilton took a further five drivers’ titles, only beaten by then-team mate Nico Rosberg in 2016. Mercedes’ record-breaking seven-year run of double titles is the longest in the sport, as well as securing the team a massive 73.9% win percentage of races over that period.\n" +
                     "Rosberg unexpectedly retired after his title win and the team appointed Valtteri Bottas as his replacement. Along with Hamilton they saw off a rising threat from Ferrari over the coming years, which abruptly receded in the pandemic-shortened 2020 season, resulting in Mercedes’ most dominant campaign since Rosberg’s days at the team.\n" +
-                    "New rules introduced in 2021 to trim away floor towards the rear of the car seemed to hit Mercedes hard. However Hamilton was still able to claim the first victory of the season at Bahrain."
+                    "New rules introduced in 2021 to trim away floor towards the rear of the car seemed to hit Mercedes hard. However Hamilton was still able to claim the first victory of the season at Bahrain.",
+            R.drawable.mercedes_car,
             ),
         arrayOf(
             "Oracle Red Bull Racing",
@@ -119,7 +127,8 @@ object CarsData {
                     "The 2015 season was poor for Red Bull, a difficult car yielding only three podiums and no wins. By 2016, the situation hadn’t much improved although Kvyat took what turned out to be his final podium for the team in China. He was replaced by Max Verstappen by the fifth race, in Barcelona, who won the race after a double DNF for Mercedes, becoming F1’s youngest-ever race winner. The team went on to finish second in the constructors’ championship, which would be their best result until 2020.\n" +
                     "Verstappen’s arrival seemed to unseat Ricciardo and the two clashed several times before Ricciardo finally departed for Renault at the end of the 2018 season. At the same time, Red Bull’s relationship to Renault deteriorated and they turned to Honda power in 2019, with Verstappen taking the manufacturer’s first F1 victory since their return to F1 in 2015 at the 2019 Austrian Grand Prix.\n" +
                     "Since Ricciardo’s departure, the team has struggled to fill their ‘second seat,’ with a rapidly-promoted Pierre Gasly replaced mid-season in 2019 by an even-more-rapidly promoted Alex Albon. Albon clung on through 2020 but was unable to equal or even support Verstappen in the drivers’ and constructors’ championship and ended the year relegated to reserve driver as Sergio Perez took on the drive for 2021.\n" +
-                    "Red Bull’s power unit supply has proven no less troublesome, with Honda announcing its departure from the sport a the end of the 2021 season. Rather than return to Renault supply, Red Bull has struck a deal to secure a power unit development freeze and take on Honda’s intellectual property, as well as its Milton Keynes facility, to develop their own power units."
+                    "Red Bull’s power unit supply has proven no less troublesome, with Honda announcing its departure from the sport a the end of the 2021 season. Rather than return to Renault supply, Red Bull has struck a deal to secure a power unit development freeze and take on Honda’s intellectual property, as well as its Milton Keynes facility, to develop their own power units.",
+            R.drawable.red_bull_car,
             ),
         arrayOf(
             "Williams Racing",
@@ -138,8 +147,9 @@ object CarsData {
                     "The team replicated the result in 2015, with Felipe Massa and Valtteri Bottas taking two podiums apiece. However, they would not equal the result again while under the Williams family ownership.\n" +
                     "A decline in results during 2016 and 2017 turned into a crisis in 2018, when the team scored just seven points and came last in the constructors’ championship. This would seem like a relative harvest in 2019, when the car was delivered so late to testing that they missed days of running and a single point was their haul for the year, scored by Robert Kubica in a chaotic Hockenheim race.\n" +
                     "2020’s line up retained Mercedes young driver George Russell , as well as adding Nicholas Latifi but neither was able to score a single point and Williams finished the year last in the constructors’ title for the third season running. Alongside the pressures of COVID-19, it proved too much for the Williams family, who put the team up for sale and departed from its management midway through the year.\n" +
-                    "The new owners, a consortium called Dorilton Capital, kept their driver line up and Mercedes power unit deal for 2021 while bolstering technical personnel from Volkswagen’s recently-ended motorsport programmes."
-            ),
+                    "The new owners, a consortium called Dorilton Capital, kept their driver line up and Mercedes power unit deal for 2021 while bolstering technical personnel from Volkswagen’s recently-ended motorsport programmes.",
+            R.drawable.williams_car,
+        ),
     )
 
     val listData: ArrayList<Car>
@@ -152,6 +162,7 @@ object CarsData {
                 car.racer2 = aData[2] as String
                 car.photo = aData[3] as Int
                 car.detail = aData[4] as String
+                car.carPhoto = aData[5] as Int
 
                 list.add(car)
             }

@@ -110,6 +110,7 @@
             android:text="@string/car_desc"
             android:textColor="@android:color/black"
             android:justificationMode="inter_word"
+            android:textSize="16sp"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
             android:layout_marginBottom="5dp"

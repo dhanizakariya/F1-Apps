@@ -24,7 +24,7 @@ class CarAdapter(private val listCar: ArrayList<Car>): RecyclerView.Adapter<CarA
     }
 
     override fun onBindViewHolder(holder: ListViewHolder, position: Int) {
-        val (name, racer1, racer2, photo, detail) = listCar[position]
+        val (name, racer1, racer2, photo, detail, carPhoto) = listCar[position]
 
         Glide.with(holder.itemView.context)
             .load(photo)
@@ -44,6 +44,7 @@ class CarAdapter(private val listCar: ArrayList<Car>): RecyclerView.Adapter<CarA
             moveDetail.putExtra(CarDetail.EXTRA_RACER2, racer2)
             moveDetail.putExtra(CarDetail.EXTRA_PHOTO, photo)
             moveDetail.putExtra(CarDetail.EXTRA_DETAIL, detail)
+            moveDetail.putExtra(CarDetail.EXTRA_IMAGE, carPhoto)
             mContext.startActivity(moveDetail)
         }
     }

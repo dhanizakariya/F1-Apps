@@ -6,4 +6,5 @@ data class Car(
     var racer2: String = " ",
     var photo: Int = 0,
     var detail: String = " ",
+    var carPhoto: Int = 0
 )
