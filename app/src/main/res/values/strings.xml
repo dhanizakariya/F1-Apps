@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Dicoding</string>
+    <string name="car_name">Nama Mobil</string>
+    <string name="racer1">Racer 1</string>
+    <string name="racer2">Racer 2</string>
+
+    //About
+    <string name="my_name">Muhammad Zakariya Nur Ramdhani</string>
+    <string name="my_email">dhanizakariya12@gmail.com</string>
+
+    //car detail
+    <string name="team_name">Team Name</string>
+    <string name="first_racer">Racer 1</string>
+    <string name="second_racer">Racer 2</string>
+    <string name="content_title">Content Tittle</string>
+    <string name="tittle_detail">Team Overview</string>
+    <string name="car_desc">Car Desc</string>
+    <string name="about_me">About Me</string>
+    <string name="instagram">Instagram</string>
+    <string name="dhanizakariya">\@dhanizakariya_</string>
+    <string name="twitter">Twitter</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="linkedin_com_in_dhanizakariya">linkedin.com/in/dhanizakariya</string>
+    <string name="github">GitHub</string>
+    <string name="github_com_dhanizakariya">github.com/dhanizakariya</string>
+    <string name="profile">Profile</string>
+</resources>
