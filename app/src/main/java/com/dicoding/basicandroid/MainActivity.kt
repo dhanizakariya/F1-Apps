@@ -44,9 +44,9 @@ class MainActivity : AppCompatActivity() {
     private fun setMode(selectedMode: Int) {
         when (selectedMode) {
             R.id.miCompose -> {
-                val iAbout = Intent(this@MainActivity,
+                val intentAbout = Intent(this@MainActivity,
                     About::class.java)
-                startActivity(iAbout)
+                startActivity(intentAbout)
             }
         }
     }

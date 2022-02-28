@@ -17,15 +17,13 @@ class CarDetail : AppCompatActivity() {
         actionbar.setDisplayHomeAsUpEnabled(true)
 
         val tvSetName: TextView = findViewById(R.id.tv_set_name)
-        val imgSetLogo: ImageView = findViewById(R.id.img_item_photo)
-        val imgSetPhoto: ImageView = findViewById(R.id.img_set_photo)
+        val imgSetPhoto: ImageView = findViewById(R.id.img_item_photo)
         val tvRacer1: TextView = findViewById(R.id.tv_racer1)
         val tvRacer2: TextView = findViewById(R.id.tv_racer2)
         val tvDetail: TextView = findViewById(R.id.tv_set_overview)
 
         val tName  = intent.getStringExtra(EXTRA_NAME)
-        val tImg = intent.getStringExtra(EXTRA_PHOTO)
-        val tLogo = intent.getStringExtra(EXTRA_LOGO)
+        val tImg = intent.getIntExtra(EXTRA_PHOTO, 0)
         val tRacer1 = intent.getStringExtra(EXTRA_RACER1)
         val tRacer2 = intent.getStringExtra(EXTRA_RACER2)
         val tDetail = intent.getStringExtra(EXTRA_DETAIL)
@@ -35,10 +33,6 @@ class CarDetail : AppCompatActivity() {
             .load(tImg)
             .apply(RequestOptions())
             .into(imgSetPhoto)
-        Glide.with(this)
-            .load(tLogo)
-            .apply(RequestOptions())
-            .into(imgSetLogo)
         tvRacer1.text = tRacer1
         tvRacer2.text = tRacer2
         tvDetail.text = tDetail
@@ -50,7 +44,6 @@ class CarDetail : AppCompatActivity() {
         const val EXTRA_DETAIL = "extra_detail"
         const val EXTRA_RACER1 = "extra_racer1"
         const val EXTRA_RACER2 = "extra_racer2"
-        const val EXTRA_LOGO = "extra-logo"
     }
 
     override fun onSupportNavigateUp(): Boolean {

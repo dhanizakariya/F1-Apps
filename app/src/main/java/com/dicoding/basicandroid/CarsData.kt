@@ -7,7 +7,6 @@ object CarsData {
             "Zhou Guanyu",
             "Valtteri Bottas",
             R.drawable.alfa_romero,
-            R.drawable.alfa_romero_car,
             "Sauber entered F1 in 1993 using engines supplied by Mercedes, whose world endurance championship team they had run.\n" +
                     "For a while they were expected to become Mercedes’ works F1 outfit but that plan changed when Mercedes became engine suppliers to McLaren in 1995.\n" +
                     "Sauber remained as an independent F1 team and eventually switchedto Ferrari engined badged by Petronas. The team was the first destination for several upcoming drivers including Kimi Raikkonen and Felipe Massa.\n" +
@@ -21,7 +20,6 @@ object CarsData {
             "Pierre Gasly",
             "Yuki Tsunoda",
             R.drawable.alpha_tauri,
-            R.drawable.alpha_tauri_car,
             "Scuderia AlphaTauri, or simply AlphaTauri, is an Italian Formula One racing team and constructor. It is one of two Formula One constructors owned by Austrian beverage company Red Bull, the other being Red Bull Racing. " +
                     "The constructor was rebranded for the 2020 Formula One World Championship from \"Toro Rosso\" to \"AlphaTauri\" in order to promote the AlphaTauri fashion brand." +
                     "According to Franz Tost and Helmut Marko, Scuderia AlphaTauri is no longer the junior team but the sister team to Red Bull Racing."
@@ -31,7 +29,6 @@ object CarsData {
             "Fernando Alonso",
             "Esteban Ocon",
             R.drawable.alpine,
-            R.drawable.alpine_car,
             "Alpine F1 Team, competing as BWT Alpine F1 Team,[5] is a Formula One constructor which made its debut at the start of the 2021 Formula One World Championship. \n" +
                     "Formerly named Renault F1 Team and owned by the French automotive company Groupe Renault, the team was rebranded for 2021 to promote Renault's sports car brand, Alpine, and continues to serve as Renault's works team.\n" +
                     " The chassis and managerial side of the team is based in Enstone, Oxfordshire, England, and the engine side of the team is based in Viry-Châtillon, a suburb of Paris, France."
@@ -41,7 +38,6 @@ object CarsData {
             "Sebastian Vettel",
             "Lance Stroll",
             R.drawable.aston_martin,
-            R.drawable.aston_martin_car,
             "Indian billionaire Vijay Mallya took over from the former Spyker team in 2008 and rebranded it Force India.\n" +
                     "The team remains at the same base outside the Silverstone Circuit in Northamptonshire which it occupied when it originally entered Formula One as Jordan in 1991.\n" +
                     "Having used Ferrari engines in its first season, it switched to Mercedes power in 2009. Giancarlo Fisichella nearly gave the team a breakthrough victory at Spa-Francorchamps that year, and sense then Force India has gradually strengthened its position in the midfield. So much so that in 2016 and 2017 the team finished fourth in the championship, only beaten by three teams with significantly greater resources.\n" +
@@ -52,7 +48,6 @@ object CarsData {
             "Charles Leclerc",
             "Carlos Sainz",
             R.drawable.ferrari,
-            R.drawable.ferrari_car,
             "Ferrari and Formula 1 are inseparable in the eyes of some. They are the only team in Formula 1 today to have competed in the first world championship in 1950.\n" +
                     "The first decade and a half of the world championship saw a string of Ferrari championships won by the likes of Alberto Ascari, Juan Manuel Fangio, Phil Hill and John Surtees.\n" +
                     "Ferrari struggled from the mid-sixties to the mid-seventies, before the new partnership of Niki Lauda and Mauro Forghieri delivered more titles in 1975 and 1977. There might have been another in 1976 – but Lauda was gravely injured in a fiery crash at the Nurburgring. His return late in the season, only to withdraw from the final race of the year, ultimately led to a split between him and team founder Enzo Ferrari 12 months later.\n" +
@@ -69,7 +64,6 @@ object CarsData {
             "Nikita Mazepin",
             "Mick Schumacher",
             R.drawable.haas,
-            R.drawable.haas_car,
             "Gene Haas first announced his plans to enter a Formula 1 team in 2014. He was granted an entry for the 2016 season, making Haas F1 Team the first new outfit to enter the sport in six years.\n" +
                     "Haas chose to enter Formula 1 to promote his machining business Haas Formula. Haas also competes in NASCAR and at the time of its entry into F1 had a four-car team in America’s leading racing series.\n" +
                     "While the team is based at the Haas headquarters in Kannapolis, North Carolina its chassis is manufacturer by Dallara in Italy and the race team base is in Banbury in the United Kingdon.\n" +
@@ -83,7 +77,6 @@ object CarsData {
             "Daniel Ricciardo",
             "Lando Norris",
             R.drawable.mc_laren,
-            R.drawable.mc_laren_car,
             "McLaren is one of the oldest active teams in F1, and has been in competition every year since 1966. The team was formed by New Zealand racer Bruce McLaren, who lost his life while testing one of the Can-Am cars which bore his name at Goodwood in 1970.\n" +
                     "Four years later the team won its first world championship with Emerson Fittipaldi, and a second came in 1976 courtesy of James Hunt.\n" +
                     "But the Teddy Mayer-run outfit fell down the grid before a takeover by Ron Dennis in the early 1980s. The reinvigorated outfit pioneered the carbon fibre chassis and became the dominant force in F1 from 1984 until the early nineties, with the likes of Niki Lauda, Alain Prost and Ayrton Senna winning championship.\n" +
@@ -99,7 +92,6 @@ object CarsData {
             "Lewis Hamilton",
             "George Russell",
             R.drawable.mercedes,
-            R.drawable.mercedes_car,
             "Mercedes can trace its motor racing involvement back to the pioneering days of the original grands prix at the start of the 20th century. In the years leading up to World War Two the German government pumped money into Mercedes and rivals Auto Union to build the most technically advanced racing machines the world had seen.\n" +
                     "After the war it wasn’t until the mid-fifties that German teams were allowed to compete again. When Mercedes returned it picked up where it had left off. Juan Manuel Fangio moved to the team from Maserati part way through 1954 and won the world title.\n" +
                     "Fangio won a second title when joined by Stirling Moss in 1955. But the team’s sports car effort was withdrawn from the Le Mans 24 Hours that year after one of its drivers, Pierre Levegh, crashed into the crowd. Levegh and over 80 spectators were killed. Mercedes withdrew from all motor racing competition and did not return until the 1980s.\n" +
@@ -116,7 +108,6 @@ object CarsData {
             "Max Verstappen",
             "Sergio Perez",
             R.drawable.red_bull,
-            R.drawable.red_bull_car,
             "Dietrich Mateschitz, the billionaire behind soft drink Red Bull, formed an F1 team in 2005 having bought the remnants of Jaguar Racing from Ford. The company had previously sponsored several F1 drivers.\n" +
                     "He appointed Christian Horner to run the team who signalled its determination to succeed by hiring of top designer Adrian Newey, who had crafted world championship-winning cars for Williams and McLaren.\n" +
                     "Sebastian Vettel scored the team’s breakthrough victory in 2009 and went on to finish second in the drivers’ championship that year.\n" +
@@ -135,7 +126,6 @@ object CarsData {
             "Nicholas Latifi",
             "Alex Albon",
             R.drawable.williams,
-            R.drawable.williams_car,
             "Frank Williams originally ran a team using customer cars. Then in 1977 he set up Williams as an F1 constructor and two years later Clay Regazzoni gave the team its first win at Silverstone.\n" +
                     "The following year Williams were constructors’ champions for the first time and Alan Jones claimed the drivers’ title. Two years later Keke Rosberg followed in Jones’s footsteps, again with Cosworth power.\n" +
                     "A switch to Honda turbo engines took a while to come good but it delivered in a big way in the mid-eighties when Nelson Piquet and Nigel Mansell were driving. Williams won back-to-back constructors’ championships, Mansell narrowly missed the 1986 title, and Piquet clinched it the following year.\n" +
@@ -160,9 +150,8 @@ object CarsData {
                 car.name = aData[0] as String
                 car.racer1 = aData[1] as String
                 car.racer2 = aData[2] as String
-                car.logo = aData[3] as Int
-                car.photo = aData[4] as Int
-                car.detail = aData[5] as String
+                car.photo = aData[3] as Int
+                car.detail = aData[4] as String
 
                 list.add(car)
             }
